@@ -1,0 +1,13 @@
+
+]
+java:S1220""Move this file to a named package.8ÜöÏİî1J$cbaaf48d-dc99-4df0-a25c-1909b3d24f6b
+~
+java:S1854";Remove this useless assignment to local variable "numeroB".(ú”ı8åöÏİî1J$7cadb7b5-ae46-4cfa-a5f1-bfb35ac958b9
+~
+java:S1854	";Remove this useless assignment to local variable "numeroA".(¨¢Ó²8åöÏİî1J$2e774616-6141-419f-ad18-1f39901f9733
+t
+java:S1481",Remove this unused "numeroA" local variable.(±ğéËüÿÿÿÿ8æöÏİî1J$74a4cf9d-20cd-4826-8bac-82c65df9fa84
+t
+java:S1481",Remove this unused "numeroB" local variable.(èÌêŠüÿÿÿÿ8çöÏİî1J$41bcdb35-b83d-48b3-8ca8-7f9f405def68
+m	java:S106"+Replace this use of System.out by a logger.(»ßäî8èöÏİî1J$05bcc62f-64c5-4edb-a6a9-b69341facfc8
+m	java:S106"+Replace this use of System.out by a logger.(‹Ï×ë8êöÏİî1J$af4385ad-eb89-4760-a74d-af26672178be

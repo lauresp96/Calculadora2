@@ -1,0 +1,10 @@
+
+„
+java:S2184"ACast one of the operands of this addition operation to a "float".(íÊºÏ8®üÙŞî1J$bb6f6d23-b095-4c35-9c36-bb0fd091c57f
+Œ
+java:S2184"DCast one of the operands of this subtraction operation to a "float".(¶¾©Íøÿÿÿÿ8¯üÙŞî1J$2a75239c-c6e1-4f2c-a272-e5396573f799
+
+java:S2184"GCast one of the operands of this multiplication operation to a "float".(Şş™Àıÿÿÿÿ8¯üÙŞî1J$c0c14b54-0259-4352-a26c-d4c52bc18892
+r	java:S106	"+Replace this use of System.out by a logger.(ÅÙ“Ñşÿÿÿÿ8æ ´Şî1J$3a015626-1236-4dc8-a7ef-b1eb7713f892
+r	java:S106"+Replace this use of System.out by a logger.(Ô¨Åøûÿÿÿÿ8è ´Şî1J$001c7b27-8c49-44e7-b4b3-7f0cc34f0ed6
+l	java:S106"+Replace this use of System.out by a logger.(‰æË8é ´Şî1J$033b8810-b8d0-4536-805b-bb41fed948d5
